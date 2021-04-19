@@ -45,7 +45,7 @@ public class Generador_de_turnos extends JFrame {
 		JButton btnPrueba = new JButton("PRUEBA");
 		btnPrueba.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				JOptionPane.showMessageDialog(null, "Hola crack");
+				JOptionPane.showMessageDialog(null, "Hola cracks");
 			}
 		});
 		btnPrueba.setBounds(204, 206, 122, 51);
